@@ -1,0 +1,3 @@
+[submodule "champ-sim"]
+	path = champ-sim
+	url = https://github.com/kostr2010/ChampSim
